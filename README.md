@@ -10,3 +10,7 @@ LA 다저스 선수 정리
 
 ## 터너 ##
 다저스 대표 3루수
+
+### 채현욱 ###
+
+Very important Person in Project
